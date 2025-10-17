@@ -1,4 +1,5 @@
-![wallpaper](https://imgur.com/a/C8zZObF)
+![wallpaper](![Gv0Q-TQWcAASGue](https://github.com/user-attachments/assets/950e5d80-909d-4dd8-a979-50247d0f2057)
+)
 # 📓 About Me:
 I’m a Computer Information Systems (CIS) student at the University of Jordan, <br>focusing on programming languages, low-level programming, <br>and building interpreters and compilers. <br><br>I’m currently working on projects that align with these interests, honing my skills in systems programming and software development.<br>My long-term goal is to become a system architect or a compiler engineer, contributing to the design and optimization of robust and efficient software systems.
 

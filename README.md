@@ -1,4 +1,4 @@
-![wallpaper](<img width="995" height="601" alt="image" src="https://github.com/user-attachments/assets/7783897d-f022-4ae1-9ae2-5364746d0d32" />
+![wallpaper]("https://github.com/user-attachments/assets/7783897d-f022-4ae1-9ae2-5364746d0d32"
 )
 
 # 📓 About Me:
